@@ -1,7 +1,4 @@
-# Financial-performance-dashboard-Python-PowerBi
-Interactive Power BI dashboard analyzing financial metrics and EV market trends for data-driven insights.
-
-# Financial Performance Dashboard
+# Financial Performance Dashboard - PowerBi - Python
 > Interactive Power BI dashboard for analyzing financial metrics and EV market trends
 
 ## 📖 Overview
